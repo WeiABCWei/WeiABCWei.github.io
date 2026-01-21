@@ -51,7 +51,7 @@
         }
     ],
     "data": [
-        "http://localhost:8000/modlist_tool_2131.txt"
+        "https://WeiABCWei.github.io/modlist_tool_2131.txt"
     ],
     "resURL": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2/",
     "resURL_ad": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2/",
