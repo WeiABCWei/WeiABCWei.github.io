@@ -1,0 +1,63 @@
+{
+    "resVer": "?v=20260121111832",
+    "urlsuffix": "3.3.1",
+    "refer": 1,
+    "h5_urlsuffix": "",
+    "customData": {
+        "needYD": 1
+    },
+    "modData": [
+        {
+            "name": "测试游戏1",
+            "operid": 1,
+            "id": "mod_fgcq",
+            "logo": {
+                "url": "",
+                "name": "2131_1768965522"
+            },
+            "srvlist": "https://WeiABCWei.github.io/serverlist_tool_2131.txt",
+            "winURL": "http://static.dhsf.huiyuehz.com/game_mubao/20210129/",
+            "noticeURL": "http://www.996m2.com",
+            "homeURL": "http://www.996m2.com",
+            "helpURL": "http://www.996m2.com",
+            "OpenSSL": 0,
+            "gray_server": "",
+            "status": 0,
+            "iis": "",
+            "ip": "",
+            "UpgradeSetting": "",
+            "subMod": [
+                {
+                    "name": "测试游戏1",
+                    "operid": 1,
+                    "id": "mod_fgcq1",
+                    "srvlist": "https://WeiABCWei.github.io/serverlist_tool_2131.txt",
+                    "logo": {
+                        "url": "",
+                        "name": "2131_1768965522"
+                    }
+                },
+				{
+                    "name": "测试游戏2",
+                    "operid": 2,
+                    "id": "mod_fgcq2",
+                    "srvlist": "https://WeiABCWei.github.io/serverlist_tool_2132.txt",
+                    "logo": {
+                        "url": "",
+                        "name": "2131_1768965522"
+                    }
+                }
+            ]
+        }
+    ],
+    "data": [
+        "http://localhost:8000/modlist_tool_2131.txt"
+    ],
+    "resURL": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2/",
+    "resURL_ad": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2/",
+    "resURL_ios": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2_ios/",
+    "resURL_win": "https://cdn.ppp996.hqyxkj.cn/ppp996/cq2_win/",
+    "sceneURL_cocosh5": "https://cdn.ppp996.hqyxkj.cn/cocosh5/box_res_cocosh5/",
+    "sceneURL_cocosh5_pc": "https://cdn.ppp996.hqyxkj.cn/cocosh5/box_res_cocosh5_pc/",
+    "resURL_cocosh5": "http://cdn.ppp996.hqyxkj.cn/cocosh5/cq2_cocosh5/"
+}
