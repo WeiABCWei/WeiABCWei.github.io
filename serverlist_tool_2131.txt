@@ -28,7 +28,7 @@
             "beta": 0,
             "state": 3,
             "srvid": 2,
-            "srvname": "工具测试2服",
+            "srvname": "未启用2",
             "srvip": "127.0.0.1",
             "port": 7001,
             "urlsuffix": "3.40.9",
@@ -39,9 +39,86 @@
             "beta": 0,
             "state": 3,
             "srvid": 3,
-            "srvname": "工具测试3服",
+            "srvname": "未启用3",
             "srvip": "192.168.6.30",
             "port": 9000,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 4,
+            "srvname": "未启用4",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 5,
+            "srvname": "未启用5",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 6,
+            "srvname": "未启用6",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 7,
+            "srvname": "未启用7",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 8,
+            "srvname": "未启用8",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 9,
+            "srvname": "未启用9",
+            "srvip": "127.0.0.1",
+            "port": 7001,
+            "urlsuffix": "3.40.9",
+            "WClientUrl": ""
+        },
+        {
+            "tag": 1,
+            "beta": 0,
+            "state": 3,
+            "srvid": 10,
+            "srvname": "未启用10",
+            "srvip": "127.0.0.1",
+            "port": 7001,
             "urlsuffix": "3.40.9",
             "WClientUrl": ""
         }
@@ -93,5 +170,6 @@
     "gmResVer_h5": "?v=20260121111842",
     "resVer_h5": "?v=20260121111842"
 }
+
 
 
