@@ -28,10 +28,10 @@
             "beta": 0,
             "state": 3,
             "srvid": 2,
-            "srvname": "未启用2",
+            "srvname": "3.40.2",
             "srvip": "127.0.0.1",
-            "port": 7001,
-            "urlsuffix": "3.40.9",
+            "port": 17005,
+            "urlsuffix": "3.40.2",
             "WClientUrl": ""
         },
         {
@@ -170,6 +170,7 @@
     "gmResVer_h5": "?v=20260121111842",
     "resVer_h5": "?v=20260121111842"
 }
+
 
 
 
